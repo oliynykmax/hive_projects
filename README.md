@@ -41,7 +41,7 @@ An overview of my programming experience as part of the studies at 42-network's 
 | 📏 | [`get_next_line`](https://github.com/oliynykmax/get_next_line) | Buffer-based file reading - return single line per function call            | 125              |
 | 🚫                                                   | `born2beroot`   | Virtual machine security & monitoring configurations                        | 100              |
 | 🔃     | [`push_swap`](https://github.com/oliynykmax/push_swap)     | Sorting lists with a specific and limited set of operations                 | 96 <br/>  |
-| 🌀      | [`fractol`](git@github.com:oliynykmax/fract-ol.git)       | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42)             | 116 <br/> |
+| 🌀      | [`fractol`](https://github.com/oliynykmax/fract-ol)       | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42)             | 116 <br/> |
 | ➡️         | [`pipex`](https://github.com/oliynykmax/pipex)         | Replicating shell's piping and redirection using child processes            | 100 <br/>
 
 
