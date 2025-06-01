@@ -43,7 +43,7 @@ An overview of my programming experience as part of the studies at 42-network's 
 | 🔃     | [`push_swap`](https://github.com/oliynykmax/push_swap)     | Sorting lists with a specific and limited set of operations                 | 96 <br/>  |
 | 🌀      | [`fractol`](https://github.com/oliynykmax/fract-ol)       | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42)             | 116 <br/> |
 | ➡️         | [`pipex`](https://github.com/oliynykmax/pipex)         | Replicating shell's piping and redirection using child processes            | 100 <br/>
-|  🧠sho        | [`philosophers`](https://github.com/oliynykmax/philo)         | Project about classic dining philosophers problem, that involves usage of posix threads, mutexes and atomic types           | 100 <br/>
+|  🧠        | [`philosophers`](https://github.com/oliynykmax/philo)         | Project about classic dining philosophers problem, that involves usage of posix threads, mutexes and atomic types           | 100 <br/>
 
 
 #### Misc
