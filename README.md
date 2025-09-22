@@ -54,6 +54,6 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 #### Misc
 
-|                                                   | Name         | Description                                              |
-| ------------------------------------------------------- | ------------ | -------------------------------------------------------- |
-| 👶 | [`piscine`](https://github.com/oliynykmax/Piscine42/blob/main/README.md)    | All the code written during Hive Helsinki pool - 1 month of intensive studies which determined if students got in        |
+| Name | Description |
+|------|-------------|
+| [`piscine42`](./piscine42/) | All the code written during Hive Helsinki pool - 1 month of intensive studies which determined if students got in |
