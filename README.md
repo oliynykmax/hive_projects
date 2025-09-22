@@ -34,16 +34,22 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 These are individual projects completed at Hive Helsinki.
 
+| Name | Description | Grade | Link |
+|------|-------------|-------|------|
+| 📚 | libft | Utility functions library | 125 | [View Project](./libft/docs/README.md) |
+| 🖨️ | ft_printf | Variadic function for printing string templates with value conversions | 100 | [View Project](./ft_printf/docs/README.md) |
+| 📏 | get_next_line | Buffer-based file reading - return single line per function call | 125 | [View Project](./get_next_line/README.md) |
+| 🔃 | push_swap | Sorting lists with a specific and limited set of operations | 96 | [View Project](./push_swap/docs/README.md) |
+| 🌀 | fract-ol | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42) | 116 | [View Project](./fract-ol/README.md) |
+| ➡️ | pipex | Replicating shell's piping and redirection using child processes | 100 | [View Project](./pipex/README.md) |
+| 🧠 | philo | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types. | 100 | [View Project](./philo/docs/README.md) |
+| 💻 | CPP_modules | C++ modules projects | - | [View Project](./CPP_modules/) |
+
+#### Misc
+
 | Name | Description | Link |
 |------|-------------|------|
-| 📚 | libft | Utility functions library | [View Project](./libft/docs/README.md) |
-| 🖨️ | ft_printf | Variadic function for printing string templates with value conversions | [View Project](./ft_printf/docs/README.md) |
-| 📏 | get_next_line | Buffer-based file reading - return single line per function call | [View Project](./get_next_line/README.md) |
-| 🔃 | push_swap | Sorting lists with a specific and limited set of operations | [View Project](./push_swap/docs/README.md) |
-| 🌀 | fract-ol | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42) | [View Project](./fract-ol/README.md) |
-| ➡️ | pipex | Replicating shell's piping and redirection using child processes | [View Project](./pipex/README.md) |
-| 🧠 | philo | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types. | [View Project](./philo/docs/README.md) |
-| 💻 | CPP_modules | C++ modules projects | [View Project](./CPP_modules/) |
+| 👶 | piscine | All the code written during Hive Helsinki pool - 1 month of intensive studies which determined if students got in | [View Project](https://github.com/oliynykmax/Piscine42/blob/main/README.md) |
 
 ---
 
