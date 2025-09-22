@@ -1,4 +1,4 @@
-# Hive Helsinki - My Overview
+# Hive Helsinki - My Projects
 
 An overview of my programming experience as part of the studies at 42-network's Hive Helsinki 🐝
 
