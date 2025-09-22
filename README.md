@@ -36,13 +36,13 @@ These are individual projects completed at Hive Helsinki.
 
 | Name | Description | Link |
 |------|-------------|------|
-| 📚 | libft | Utility functions library | [View Project](./libft/) |
-| 🖨️ | ft_printf | Variadic function for printing string templates with value conversions | [View Project](./ft_printf/) |
-| 📏 | get_next_line | Buffer-based file reading - return single line per function call | [View Project](./get_next_line/) |
-| 🔃 | push_swap | Sorting lists with a specific and limited set of operations | [View Project](./push_swap/) |
-| 🌀 | fract-ol | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42) | [View Project](./fract-ol/) |
-| ➡️ | pipex | Replicating shell's piping and redirection using child processes | [View Project](./pipex/) |
-| 🧠 | philo | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types. | [View Project](./philo/) |
+| 📚 | libft | Utility functions library | [View Project](./libft/docs/README.md) |
+| 🖨️ | ft_printf | Variadic function for printing string templates with value conversions | [View Project](./ft_printf/docs/README.md) |
+| 📏 | get_next_line | Buffer-based file reading - return single line per function call | [View Project](./get_next_line/README.md) |
+| 🔃 | push_swap | Sorting lists with a specific and limited set of operations | [View Project](./push_swap/docs/README.md) |
+| 🌀 | fract-ol | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42) | [View Project](./fract-ol/README.md) |
+| ➡️ | pipex | Replicating shell's piping and redirection using child processes | [View Project](./pipex/README.md) |
+| 🧠 | philo | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types. | [View Project](./philo/docs/README.md) |
 | 💻 | CPP_modules | C++ modules projects | [View Project](./CPP_modules/) |
 
 ---
@@ -53,6 +53,6 @@ These are collaborative projects completed at Hive Helsinki.
 
 | Name | Description | Link |
 |------|-------------|------|
-| 🌟 | miniRT | Ray tracer using MLX42 | [View Project](https://github.com/oliynykmax/Mini-Ray-Tracer) |
-| 💬 | ft_irc | IRC server implementation | [View Project](https://github.com/oliynykmax/irc_hive) |
-| 🐚 | minishell | Custom shell implementation | [View Project](https://github.com/oliynykmax/minishell) |
+| 🌟 | miniRT | Ray tracer using MLX42 | [View Project](https://github.com/oliynykmax/Mini-Ray-Tracer/blob/main/README.md) |
+| 💬 | ft_irc | IRC server implementation | [View Project](https://github.com/oliynykmax/irc_hive/blob/main/README.md) |
+| 🐚 | minishell | Custom shell implementation | [View Project](https://github.com/oliynykmax/minishell/blob/main/README.md) |
