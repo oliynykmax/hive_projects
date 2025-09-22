@@ -53,6 +53,6 @@ These are collaborative projects completed at Hive Helsinki.
 
 | Name | Description | Link |
 |------|-------------|------|
-| 🌟 | Mini-Ray-Tracer | Collaborative ray tracing project | [View Project](https://github.com/oliynykmax/Mini-Ray-Tracer) |
-| 💬 | irc_hive | IRC server implementation | [View Project](https://github.com/oliynykmax/irc_hive) |
+| 🌟 | miniRT | Ray tracer using MLX42 | [View Project](https://github.com/oliynykmax/Mini-Ray-Tracer) |
+| 💬 | ft_irc | IRC server implementation | [View Project](https://github.com/oliynykmax/irc_hive) |
 | 🐚 | minishell | Custom shell implementation | [View Project](https://github.com/oliynykmax/minishell) |
