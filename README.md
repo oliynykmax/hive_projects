@@ -32,25 +32,25 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 ## Group Projects
 
-|                                                 | Name            | Description                                                                 | Grade            |
-| ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ---------------- |
-| 🌟      | [`miniRT`](https://github.com/oliynykmax/Mini-Ray-Tracer)       | Ray tracer using MLX42                                                      | -                |
-| 💬      | [`ft_irc`](https://github.com/oliynykmax/irc_hive)         | IRC server implementation                                                    | -                |
-| 🐚      | [`minishell`](https://github.com/oliynykmax/minishell)         | Custom shell implementation                                                  | -                |
+| Name | Description |
+|------|-------------|
+| [`miniRT`](https://github.com/oliynykmax/Mini-Ray-Tracer) | Ray tracer using MLX42 |
+| [`ft_irc`](https://github.com/oliynykmax/irc_hive) | IRC server implementation |
+| [`minishell`](https://github.com/oliynykmax/minishell) | Custom shell implementation |
 
 ## Solo Projects
 
-|                                                 | Name            | Description                                                                 | Grade            |
-| ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ---------------- |
-| 📚      | [`libft`](./libft/docs/README.md)            | Utility functions library                                                   | 125              |
-| 🖨️     | [`ft_printf`](./ft_printf/docs/README.md)    | Variadic function for printing string templates with value conversions      | 100              |
-| 📏 | [`get_next_line`](./get_next_line/README.md) | Buffer-based file reading - return single line per function call            | 125              |
-| 🚫                                                   | `born2beroot`   | Virtual machine security & monitoring configurations                        | 100              |
-| 🔃     | [`push_swap`](./push_swap/docs/README.md)     | Sorting lists with a specific and limited set of operations                 | 96               |
-| 🌀      | [`fract-ol`](./fract-ol/README.md)       | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42)             | 116              |
-| ➡️         | [`pipex`](./pipex/README.md)         | Replicating shell's piping and redirection using child processes            | 100              |
-|  🧠        | [`philo`](./philo/docs/README.md)         | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types.           | 100              |
-| 💻      | [`CPP_modules`](./CPP_modules/)            | C++ modules projects                                                        | -                |
+| Name | Description |
+|------|-------------|
+| [`libft`](./libft/docs/README.md) | Utility functions library |
+| [`ft_printf`](./ft_printf/docs/README.md) | Variadic function for printing string templates with value conversions |
+| [`get_next_line`](./get_next_line/README.md) | Buffer-based file reading - return single line per function call |
+| `born2beroot` | Virtual machine security & monitoring configurations |
+| [`push_swap`](./push_swap/docs/README.md) | Sorting lists with a specific and limited set of operations |
+| [`fract-ol`](./fract-ol/README.md) | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42) |
+| [`pipex`](./pipex/README.md) | Replicating shell's piping and redirection using child processes |
+| [`philo`](./philo/docs/README.md) | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types. |
+| [`CPP_modules`](./CPP_modules/) | C++ modules projects |
 
 #### Misc
 
