@@ -7,7 +7,8 @@ An overview of my programming experience as part of the studies at 42-network's 
 ## Table of Contents
 
 - [General Guidelines](#general-guidelines)
-- [Projects](#projects)
+- [Group Projects](#group-projects)
+- [Solo Projects](#solo-projects)
 
 ---
 
@@ -29,7 +30,15 @@ An overview of my programming experience as part of the studies at 42-network's 
 
 ---
 
-## Projects
+## Group Projects
+
+|                                                 | Name            | Description                                                                 | Grade            |
+| ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ---------------- |
+| 🌟      | [`miniRT`](https://github.com/oliynykmax/Mini-Ray-Tracer)       | Ray tracer using MLX42                                                      | -                |
+| 💬      | [`ft_irc`](https://github.com/oliynykmax/irc_hive)         | IRC server implementation                                                    | -                |
+| 🐚      | [`minishell`](https://github.com/oliynykmax/minishell)         | Custom shell implementation                                                  | -                |
+
+## Solo Projects
 
 |                                                 | Name            | Description                                                                 | Grade            |
 | ---------------------------------------------------- | --------------- | --------------------------------------------------------------------------- | ---------------- |
@@ -42,9 +51,6 @@ An overview of my programming experience as part of the studies at 42-network's 
 | ➡️         | [`pipex`](./pipex/README.md)         | Replicating shell's piping and redirection using child processes            | 100              |
 |  🧠        | [`philo`](./philo/docs/README.md)         | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types.           | 100              |
 | 💻      | [`CPP_modules`](./CPP_modules/)            | C++ modules projects                                                        | -                |
-| 🌟      | [`miniRT`](https://github.com/oliynykmax/Mini-Ray-Tracer/blob/main/README.md)       | Ray tracer using MLX42                                                      | -                |
-| 💬      | [`ft_irc`](https://github.com/oliynykmax/irc_hive/blob/main/README.md)         | IRC server implementation                                                    | -                |
-| 🐚      | [`minishell`](https://github.com/oliynykmax/minishell/blob/main/README.md)         | Custom shell implementation                                                  | -                |
 
 #### Misc
 
