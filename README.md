@@ -37,6 +37,7 @@ An overview of my programming experience as part of the studies at 42-network's 
 | 🌟 [`miniRT`](https://github.com/oliynykmax/Mini-Ray-Tracer) | Ray tracer using MLX42 |
 | 💬 [`ft_irc`](https://github.com/oliynykmax/irc_hive) | IRC server implementation |
 | 🐚 [`minishell`](https://github.com/oliynykmax/minishell) | Custom shell implementation |
+| 💻 [`CPP_modules`](https://github.com/oliynykmax/CPP_modules) | C++ modules projects |
 
 ## Solo Projects
 
@@ -50,7 +51,6 @@ An overview of my programming experience as part of the studies at 42-network's 
 | 🌀 [`fract-ol`](./fract-ol/README.md) | Simple programm that pictures 3 types of fractals using minimal windowing/graphics library [(MLX42)](https://github.com/codam-coding-college/MLX42) |
 | ➡️ [`pipex`](./pipex/README.md) | Replicating shell's piping and redirection using child processes |
 | 🧠 [`philo`](./philo/docs/README.md) | Project on the classic Dining Philosophers problem, involving the use of POSIX threads, mutexes, and atomic types. |
-| 💻 [`CPP_modules`](./CPP_modules/) | C++ modules projects |
 
 #### Misc
 
