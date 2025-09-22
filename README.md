@@ -37,7 +37,7 @@ An overview of my programming experience as part of the studies at 42-network's 
 | 🌟 [`miniRT`](https://github.com/oliynykmax/Mini-Ray-Tracer) | Ray tracer using MLX42 |
 | 💬 [`ft_irc`](https://github.com/oliynykmax/irc_hive) | IRC server implementation |
 | 🐚 [`minishell`](https://github.com/oliynykmax/minishell) | Custom shell implementation |
-| 💻 [`CPP_modules`](https://github.com/oliynykmax/CPP_modules) | C++ modules projects |
+| 💻 [`CPP_practice`](https://github.com/oliynykmax/CPP_practice) | C++ modules projects |
 
 ## Solo Projects
 
